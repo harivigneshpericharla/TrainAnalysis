@@ -60,12 +60,26 @@ The dataset is sourced from the Government of India's Open Data Platform, making
 
 ## 📁 Project Structure
 
-train-analysis/
-│── main.py
-│── Train_details_22122017.csv
-│── README.md
-│── requirements.txt
-│── images/
+TrainAnalysis/
+│
+├── project.py                # Main Python script for data analysis
+├── cleaned_train.csv         # Cleaned dataset
+├── ProjectReport.pdf         # Project report document
+├── README.md                 # Documentation file
+│
+├── images/                   # Visualizations and output plots
+│   ├── train_no_distribution.png
+│   ├── seq_distribution.png
+│   ├── distance_distribution.png
+│   ├── train_vs_seq.png
+│   ├── seq_vs_distance.png
+│   ├── box_train.png
+│   ├── box_seq.png
+│   ├── box_distance.png
+│   ├── heatmap.png
+│   ├── pairplot.png
+│   ├── regression.png
+
 
 ---
 
