@@ -169,10 +169,3 @@ https://www.linkedin.com/posts/hari-vignesh-pericharla-342576404_datascience-pyt
 Hari Vignesh
 B.Tech CSE Student
 
----
-
-## ⭐ Future Improvements
-
-* Apply advanced ML models (Random Forest, XGBoost)
-* Build interactive dashboards (Power BI / Streamlit)
-* Use real-time railway data
