@@ -59,7 +59,9 @@ The dataset is sourced from the Government of India's Open Data Platform, making
 ---
 
 ## 📁 Project Structure
-'''
+
+```
+
 TrainAnalysis/
 │
 ├── project.py
@@ -79,7 +81,8 @@ TrainAnalysis/
 │ ├── heatmap.png
 │ ├── pairplot.png
 │ ├── regression.png
-'''
+
+```
 
 ---
 
