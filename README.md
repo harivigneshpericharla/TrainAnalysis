@@ -80,13 +80,61 @@ train-analysis/
 
 ## 📸 Output Screenshots
 
-(Add your screenshots here)
+## 📊 Data Distribution
 
-Example:
-![Chart](images/chart.png)
+### Train Number Distribution
+![Train No Distribution](images/train_no_distribution.png)
+
+### SEQ Distribution
+![SEQ Distribution](images/seq_distribution.png)
+
+### Distance Distribution
+![Distance Distribution](images/distance_distribution.png)
+
+---
+
+## 🔗 Relationships
+
+### Train Number vs SEQ
+![Train vs SEQ](images/train_vs_seq.png)
+
+### SEQ vs Distance
+![SEQ vs Distance](images/seq_vs_distance.png)
+
+---
+
+## 📦 Box Plot Analysis
+
+### Train Number
+![Box Train](images/box_train.png)
+
+### SEQ
+![Box SEQ](images/box_seq.png)
+
+### Distance
+![Box Distance](images/box_distance.png)
+
+---
+
+## 🔥 Correlation Analysis
+
 ![Heatmap](images/heatmap.png)
 
 ---
+
+## 📊 Pairplot Visualization
+
+![Pairplot](images/pairplot.png)
+
+---
+
+## 📉 Linear Regression Model
+
+![Regression](images/regression.png)
+
+
+---
+
 
 ## ▶️ How to Run the Project
 
