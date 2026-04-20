@@ -97,8 +97,6 @@ TrainAnalysis/
 
 ## 📸 Output Screenshots
 
-## 📸 Output Screenshots
-
 ## 📊 Data Distribution
 
 ### Train Number Distribution
