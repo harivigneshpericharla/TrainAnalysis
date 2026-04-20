@@ -83,55 +83,54 @@ train-analysis/
 ## 📊 Data Distribution
 
 ### Train Number Distribution
-![Train No Distribution](images/train_no_distribution.png)
+![Train No Distribution](TrainAnalysis/images/train_no_distribution.png)
 
 ### SEQ Distribution
-![SEQ Distribution](images/seq_distribution.png)
+![SEQ Distribution](TrainAnalysis/images/seq_distribution.png)
 
 ### Distance Distribution
-![Distance Distribution](images/distance_distribution.png)
+![Distance Distribution](TrainAnalysis/images/distance_distribution.png)
 
 ---
 
 ## 🔗 Relationships
 
 ### Train Number vs SEQ
-![Train vs SEQ](images/train_vs_seq.png)
+![Train vs SEQ](TrainAnalysis/images/train_vs_seq.png)
 
 ### SEQ vs Distance
-![SEQ vs Distance](images/seq_vs_distance.png)
+![SEQ vs Distance](TrainAnalysis/images/seq_vs_distance.png)
 
 ---
 
 ## 📦 Box Plot Analysis
 
 ### Train Number
-![Box Train](images/box_train.png)
+![Box Train](TrainAnalysis/images/box_train.png)
 
 ### SEQ
-![Box SEQ](images/box_seq.png)
+![Box SEQ](TrainAnalysis/images/box_seq.png)
 
 ### Distance
-![Box Distance](images/box_distance.png)
+![Box Distance](TrainAnalysis/images/box_distance.png)
 
 ---
 
 ## 🔥 Correlation Analysis
 
-![Heatmap](images/heatmap.png)
+![Heatmap](TrainAnalysis/images/heatmap.png)
 
 ---
 
 ## 📊 Pairplot Visualization
 
-![Pairplot](images/pairplot.png)
+![Pairplot](TrainAnalysis/images/pairplot.png)
 
 ---
 
 ## 📉 Linear Regression Model
 
-![Regression](images/regression.png)
-
+![Regression](TrainAnalysis/images/regression.png)
 
 ---
 
