@@ -24,7 +24,7 @@ The dataset is sourced from the Government of India's Open Data Platform, making
 
 * **Source:** data.gov.in (Government of India Open Data Portal)
 * **Dataset Name:** Indian Railways Time Table
-* **File:** `Train_details_22122017.csv`
+* **File:** `cleaned_train.csv`
 
 ### 📊 Dataset Contains:
 
@@ -62,23 +62,23 @@ The dataset is sourced from the Government of India's Open Data Platform, making
 
 TrainAnalysis/
 │
-├── project.py                # Main Python script for data analysis
-├── cleaned_train.csv         # Cleaned dataset
-├── ProjectReport.pdf         # Project report document
-├── README.md                 # Documentation file
+├── project.py
+├── cleaned_train.csv
+├── ProjectReport.pdf
+├── README.md
 │
-├── images/                   # Visualizations and output plots
-│   ├── train_no_distribution.png
-│   ├── seq_distribution.png
-│   ├── distance_distribution.png
-│   ├── train_vs_seq.png
-│   ├── seq_vs_distance.png
-│   ├── box_train.png
-│   ├── box_seq.png
-│   ├── box_distance.png
-│   ├── heatmap.png
-│   ├── pairplot.png
-│   ├── regression.png
+├── images/
+│ ├── train_no_distribution.png
+│ ├── seq_distribution.png
+│ ├── distance_distribution.png
+│ ├── train_vs_seq.png
+│ ├── seq_vs_distance.png
+│ ├── box_train.png
+│ ├── box_seq.png
+│ ├── box_distance.png
+│ ├── heatmap.png
+│ ├── pairplot.png
+│ ├── regression.png
 
 
 ---
